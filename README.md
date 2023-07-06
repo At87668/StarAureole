@@ -1,13 +1,11 @@
 <div align="center">
 <p>
-    <img width="200" src="https://raw.githubusercontent.com/CCBlueX/LiquidCloud/master/LiquidBounce/liquidbounceLogo.svg">
+    <img width="200" src="https://github.com/At87668/StarAureole/Images/StarAureoleLogo.svg">
 </p>
 
-[liquidbounce.net](https://liquidbounce.net) |
-[Forum](https://forums.ccbluex.net) |
-[Guilded](https://guilded.gg/CCBlueX) |
-[YouTube](https://youtube.com/CCBlueX) |
-[Twitter](https://twitter.com/CCBlueX)
+[star-aureole.ga](https://star-aureole.ga) |
+[bilibili](https://space.bilibili.com/1098279072) |
+[mcmod](https://center.mcmod.cn/420490/) |
 </div>
 
 StarAureole is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft. 
