@@ -8,7 +8,8 @@
 [mcmod](https://center.mcmod.cn/420490/) |
 </div>
 
-StarAureole is a free and open-source mixin-based injection hacked client using the Fabric API for Minecraft. 
+- StarAureole is a free and open-source mixin-based injection hacked client using the Forge API for Minecraft. 
+- StarAureole is a fork from LiquidBounce nextgen tree.
 
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/At87668/StarAureole/issues).
@@ -42,5 +43,5 @@ StarAureole uses Gradle, to make sure that it is installed properly you can chec
 Mixins can be used to modify classes at runtime before they are loaded. StarAureole uses it to inject its code into the Minecraft client. This way, none of Mojang's copyrighted code is shipped. If you want to learn more about it, check out its [Documentation](https://docs.spongepowered.org/5.1.0/en/plugin/internals/mixins.html).
 
 ## Contributing
-We appreciate contributions. So if you want to support us, feel free to make changes to LiquidBounce's source code and submit a pull request.
+We appreciate contributions. So if you want to support us, feel free to make changes to StarAureole's source code and submit a pull request.
 
