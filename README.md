@@ -5,7 +5,7 @@
 
 [star-aureole.ga](https://star-aureole.ga) |
 [bilibili](https://space.bilibili.com/1098279072) |
-[mcmod](https://center.mcmod.cn/420490/) |
+[mcmod](https://center.mcmod.cn/420490/) 
 </div>
 
 - StarAureole is a free and open-source mixin-based injection hacked client using the Forge API for Minecraft. 
@@ -32,7 +32,7 @@ For those who are unfamiliar with the license, here is a summary of its main poi
 
 ## Setting up a Workspace
 StarAureole uses Gradle, to make sure that it is installed properly you can check [Gradle's website](https://gradle.org/install/). It also requires NodeJS and Python to be installed for our [theme](https://github.com/At87668/StarAureole/tree/main/src-theme).
-1. Clone the repository using `git clone --recurse-submodules https://github.com/CCBlueX/LiquidBounce`.
+1. Clone the repository using `git clone --recurse-submodules https://github.com/CCBlueX/LiquidBounce](https://github.com/At87668/StarAureole/)`.
 2. CD into the local repository.
 3. Run `./gradlew genSources`.
 4. Open the folder as a Gradle project in your preferred IDE.
